@@ -4,17 +4,14 @@
 
 ## - A aplicação deve iniciar mostrando uma lista de opções do que é possível fazer com o app e permitir que o usuário digite uma escolha para iniciar a aplicação.
 
-## - Deve ser possível adicionar um contato
+# 1-Deve ser possível adicionar um contato
 
-# - O contato pode ter os dados:
+O contato pode ter os dados:
 
-# - Nome
-
-# - Telefone
-
-# - Email
-
-# - Favorito (está opção é para poder marcar um contato como favorito)
+- Nome
+- Telefone
+- Email
+- Favorito (está opção é para poder marcar um contato como favorito)
 
 ## - Deve ser possível visualizar a lista de contatos cadastrados
 
